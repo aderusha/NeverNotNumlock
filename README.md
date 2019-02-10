@@ -13,8 +13,11 @@ Num Lock turns off, NeverNotNumlock turns Num Lock back on **BECAUSE NUM LOCK SH
 ## HOW TO FINALLY PUT AN END TO NUMLOCK'S BULLSHIT
 
 `1.` [Obtain HID-capable board](https://amzn.to/2Gie1Xu) supported by [the awesome Project-HID Library](https://github.com/NicoHood/HID)
+
 `1.` Install [the awesome Project-HID Library](https://github.com/NicoHood/HID) in your favorite Arduino IDE
+
 `1.` [Flash this here code](NeverNotNumlock.ino) to your new buddy the NeverNotNumlock and sleep tight in the confidence that Num Lock will never turn off again.
+
 `2.` **THERE IS NO STEP TWO**
 
 ## WARNING THE FOLLOWING MOTION PICTURE MAY CONTAIN GRAPHIC IMAGERY FOR INDIVIDUALS SENSITIVE TO NUM LOCK BEING OFF
